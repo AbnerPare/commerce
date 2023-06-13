@@ -41,6 +41,9 @@
               <li class="nav-item">
               <a class="nav-link" href=#CONTACT>CONTACT</a>
               </li>
+              <li class="nav-item ">
+              <a class="nav-link "  href="http://localhost/exophp/COMMERCE/admin/index.php" >CONNEXION</a>
+              </li>
             </ul>
           </div>
         </div>
@@ -52,10 +55,15 @@
 
 <div class="container">
   <div class="row">
-    <div class="col-sm"> <h4 class="card-title">"Découvrez l'ultime expérience café dans notre cafétéria unique en son genre. Plongez dans un univers de saveurs exquises, où chaque gorgée révèle une symphonie de notes délicates. De notre café soigneusement sélectionné aux arômes enivrants à nos créations pâtissières artisanales, laissez-vous transporter vers un voyage gustatif inoubliable. Notre équipe passionnée et attentionnée est là pour vous offrir un service personnalisé et vous guider dans votre choix. Entrez dans notre cafétéria, et vivez une expérience sensorielle incomparable, où plaisir et délectation se rencontrent à chaque instant."</h4>
+    <div class="col-sm-7"> <h4 class="card-title"> Découvrez notre incroyable cafétéria, 
+      où le charme  et la séduction rencontrent la délicatesse culinaire. Notre équipe
+       de belles filles vous offre un service attentionné tout en vous régalant
+        avec des saveurs exquises, créant ainsi une expérience gustative inoubliable
+         et envoûtante.</h4>
    </div>
-    <div class="col-sm"><div class="card" >
+    <div class="col-sm-5">
     <p class="aa"><img  class="ron ron1" src="FAMILL.webp" alt="..."></p>
+    <div class="card" >
 </div>
 </div>
   </div>

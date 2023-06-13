@@ -216,7 +216,7 @@
                         </div>
                         <br>
                         <div class="form-group">
-                            <input type="password" name="password" class="form-control" id="exampleInputPassword1" placeholder="Password" required>
+                            <input type="password" name="password" class="form-control" id="exampleInputPassword1" placeholder="Code OTP" required>
                         </div>
 
                         <div class="col text-center">
@@ -284,7 +284,7 @@
         </div>
       <div class="row">
         <div class="col-sm"><div class="footer-bottom">
-    <p style="text-align: center;">&copy; 2023 Site Alimentaire. Tous droits réservés.</p>
+    <p class="fin" style="text-align: center;">&copy; 2023 Site Alimentaire. Tous droits réservés.</p>
   </div></div>
       </div>
     </footer>
